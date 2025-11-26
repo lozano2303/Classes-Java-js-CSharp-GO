@@ -1,0 +1,1 @@
+// Interface IExample { performAction() }

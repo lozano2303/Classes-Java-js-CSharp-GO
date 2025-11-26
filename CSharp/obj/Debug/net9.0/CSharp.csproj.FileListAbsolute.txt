@@ -1,0 +1,14 @@
+c:\Users\Aprendiz\Desktop\Classes-Java-js-CSharp-GO\CSharp\bin\Debug\net9.0\CSharp.exe
+c:\Users\Aprendiz\Desktop\Classes-Java-js-CSharp-GO\CSharp\bin\Debug\net9.0\CSharp.deps.json
+c:\Users\Aprendiz\Desktop\Classes-Java-js-CSharp-GO\CSharp\bin\Debug\net9.0\CSharp.runtimeconfig.json
+c:\Users\Aprendiz\Desktop\Classes-Java-js-CSharp-GO\CSharp\bin\Debug\net9.0\CSharp.dll
+c:\Users\Aprendiz\Desktop\Classes-Java-js-CSharp-GO\CSharp\bin\Debug\net9.0\CSharp.pdb
+c:\Users\Aprendiz\Desktop\Classes-Java-js-CSharp-GO\CSharp\obj\Debug\net9.0\CSharp.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Aprendiz\Desktop\Classes-Java-js-CSharp-GO\CSharp\obj\Debug\net9.0\CSharp.AssemblyInfoInputs.cache
+c:\Users\Aprendiz\Desktop\Classes-Java-js-CSharp-GO\CSharp\obj\Debug\net9.0\CSharp.AssemblyInfo.cs
+c:\Users\Aprendiz\Desktop\Classes-Java-js-CSharp-GO\CSharp\obj\Debug\net9.0\CSharp.csproj.CoreCompileInputs.cache
+c:\Users\Aprendiz\Desktop\Classes-Java-js-CSharp-GO\CSharp\obj\Debug\net9.0\CSharp.dll
+c:\Users\Aprendiz\Desktop\Classes-Java-js-CSharp-GO\CSharp\obj\Debug\net9.0\refint\CSharp.dll
+c:\Users\Aprendiz\Desktop\Classes-Java-js-CSharp-GO\CSharp\obj\Debug\net9.0\CSharp.pdb
+c:\Users\Aprendiz\Desktop\Classes-Java-js-CSharp-GO\CSharp\obj\Debug\net9.0\CSharp.genruntimeconfig.cache
+c:\Users\Aprendiz\Desktop\Classes-Java-js-CSharp-GO\CSharp\obj\Debug\net9.0\ref\CSharp.dll
